@@ -174,7 +174,7 @@ imageGrob <- function(x, y, size, img, by, hjust, colour, alpha, image_fun, angl
                        image = img,
                        default.units = unit,
                        height = height,
-                       width = width,
+                       ## width = width,
                        interpolate = FALSE
                        ## gp = gpar(rot = angle[i])
                        ## vp = viewport(angle=angle[i])
